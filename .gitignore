@@ -5,5 +5,4 @@ generate-sol-log.sh
 post-deploy.sh
 pre-deploy.sh
 test.sh
-unit-test.sh
 .nvmrc
