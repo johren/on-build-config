@@ -3,7 +3,6 @@
 config.ini
 generate-sol-log.sh
 post-deploy.sh
-post-result.py
 pre-deploy.sh
 test.sh
 unit-test.sh
