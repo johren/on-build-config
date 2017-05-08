@@ -46,12 +46,12 @@
         {
             "branch": "", 
             "commit-id": "",
-            "repository": "https://github.com/johren/RackHD.git"
+            "repository": "https://github.com/RackHD/RackHD.git"
         }, 
         {
-            "branch": "RAC-5026-Jenkins-Sandbox-test", 
+            "branch": "", 
             "commit-id": "",
-            "repository": "https://github.com/johren/on-build-config.git"
+            "repository": "https://github.com/RackHD/on-build-config.git"
         },
         {
             "branch": "",
