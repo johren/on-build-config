@@ -58,8 +58,8 @@ node{
                 def function_test = load("build-config/jobs/FunctionTest/FunctionTest.groovy")
                 try{
                     function_test.manifestTest(TESTS, env.stash_manifest_name, env.stash_manifest_path, repo_dir)
-                } finally{
-                    function_test.archiveArtifactsToTarget("FunctionTest")
+//                } finally{
+//                    function_test.archiveArtifactsToTarget("FunctionTest")
                 }
             }
         } finally{
